@@ -7,7 +7,7 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 * Eric Piskorowski, Western New England University
     * GitHub: episkorowski 
-    
+   
 * Jimmy O'Donnell, Western New England University
    *  Github: ojimmy89
    *  Email:   jo345758@wne.edu
@@ -484,3 +484,28 @@ Name, Organization, and (optionally) Contact Info
 * Quashawn Hernandez, Dural College
    * GitHub: HernandezQ17
    * Email: quashawnhernandez@gmail.com
+
+* Wei Jin, Georgia Gwinnett College
+   * GitHub: wjinggc
+   * Email: wjin@ggc.edu
+
+* Darci Burdge, Nassau Community College
+   * GitHub: burdged
+   * Email: darci.burdge@ncc.edu
+
+* Hossain Shahriar, Kennesaw State University
+   * GitHub: hshahria2012
+   * Email: hshahria2012@gmail.com
+
+* Lin Deng, Towson University
+   * GitHub: dmark1021
+   * Email: ldeng@towson.edu
+
+* Marco Gerosa, Northern Arizona University
+   * GitHub: marcogerosa
+   * Email: Marco.Gerosa@mau.edu
+
+* Farhan Siddiqui, Dickinson College
+   * GitHub: siddiquf
+   * Email: siddiquf@dickinson.edu
+
